@@ -1,0 +1,147 @@
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,query,"TITLE-ABS-KEY ( ""object-centric"" OR ""object centric"" OR OCEL OR OCELs ) AND ( CONFNAME ( ICPM ) OR CONFNAME ( BPM ) OR CONFNAME ( CAiSE ) )",,,
+,total retrieved paper,127,,,
+,,,,,
+,,,,,
+,Source,Title,Year - Conf,Model/Descr/Log,Area
+1,https://link.springer.com/chapter/10.1007/978-3-032-37877-4_3,Discovering the Lively World of Object-Centric Processes with Dynamic Relationships,2026 - bpm,Model,"Order management
+Team formation"
+2,https://link.springer.com/chapter/10.1007/978-3-032-37877-4_4,Process-Aware Design of Just-In-Time Adaptive Interventions: An Object-Centric Perspective,2026 - bpm,No conceptual model,
+3,https://link.springer.com/chapter/10.1007/978-3-032-37877-4_1,Simulating Dynamic Relationships in Object-Centric Processes,2026 - bpm,"Model, Description",Order management
+4,https://link.springer.com/chapter/10.1007/978-3-032-37877-4_12,Connecting the Dots: Path-Based Entity Linking in Object-Centric Event Data,2026 - bpm,"Model, Description",Order management
+5,,BPM Forum proceedings ,,,
+6,https://link.springer.com/chapter/10.1007/978-3-032-28160-9_29,"Interpretable Execution State Abstraction from Object-Centric Event Logs 
+for Process-Aware Decision Support: Linking Execution States to Stock and Policy Regimes",2026 - caise,No object lifecycle,
+7,https://link.springer.com/chapter/10.1007/978-3-032-27997-2_13,Detecting Dynamic Relationships in Object-Centric Event Logs,2026 - caise,"Description, Log","Order management
+Team formation"
+8,https://link.springer.com/chapter/10.1007/978-3-032-02929-4_12,Layouting Object-Centric Directly Follows Graphs,2025 - bpm,No conceptual model,
+9,https://link.springer.com/chapter/10.1007/978-3-032-28117-3_19,Object-Centric Conformance Checking on Object-Centric Causal Nets,2026 - caise,"Model, Description, Log",Order management
+10,https://link.springer.com/chapter/10.1007/978-3-032-13426-4_34,Transforming Football Data into Object-Centric Event Logs with Spatial Context Information,2025 - bpm,"Description, Model ",Football OCEL
+11,https://link.springer.com/chapter/10.1007/978-3-032-02867-9_11,OC-DECLARE: Discovering Object-Centric Declarative Patterns with Synchronization,2025 - bpm,"Model, Description, Log",Order management
+12,https://link.springer.com/chapter/10.1007/978-3-032-02867-9_16,Global Predictive Monitoring of Object-Centric Processes,2025 - bpm,Log,Order management
+13,https://link.springer.com/chapter/10.1007/978-3-032-27997-2_30,"Object-Centric Event Data: Conceptualization, Extraction and Querying",2026 - caise,No conceptual model,
+14,https://link.springer.com/chapter/10.1007/978-3-032-13426-4_43,Visualizing Object-Centric Petri Nets,2025 - bpm,No conceptual model,
+15,https://link.springer.com/chapter/10.1007/978-3-032-02867-9_13,Process Area Extraction by Multilevel Resource Detection for Object-Centric Process Mining,2025 - bpm,"Model, Description, Log",Enriched order management
+16,https://link.springer.com/chapter/10.1007/978-3-032-27997-2_25,"Supporting Hypothesis Testing in Object-Centric Process Mining: An AI Scaffold to 
+Surface Hidden Analytical Failures",2026 - caise,No conceptual model,
+17,https://link.springer.com/chapter/10.1007/978-3-032-28117-3_20,Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data,2026 - caise,No object lifecycle,
+18,https://link.springer.com/chapter/10.1007/978-3-032-13426-4_35,An Object-Centric Approach to Inferring and Analyzing Queues,2025 - bpm,No object lifecycle,
+19,https://link.springer.com/chapter/10.1007/978-3-032-28117-3_21,"Porifera: A Relational Approach to Conformance Checking for 
+Object-Centric Behavioral Constraints",2026 - caise,Model,Order management
+20,,Caise 2026 conference,,,
+21,,caise conference ,,,
+22,https://link.springer.com/chapter/10.1007/978-3-032-02867-9_5,MANTA: Materializing Views on Event Data for Context Exploration in Process Analysis,2025 - BPM,No object lifecycle,
+23,https://link.springer.com/chapter/10.1007/978-3-032-28110-4_11,Process Mining in Context: Extending Domain Data Models for Iterative Analysis,2026 - Caise,"Description, Log",ITIL-bsed proces 
+24,,BPM Forum 2025,,,
+25,https://link.springer.com/chapter/10.1007/978-3-031-82225-4_5,Root Cause Analysis Using Rule Mining on Object-Centric Event Logs,2024 - icpm,Description,Order management
+26,https://link.springer.com/chapter/10.1007/978-3-031-94590-8_5,From Words to Workflows: Extracting Object-Centric Event Logs from Textual Data,2025 - Caise,No conceptual model,
+27,https://link.springer.com/chapter/10.1007/978-3-031-78666-2_23,Transforming Object-Centric Event Logs to Temporal Event Knowledge Graphs,2024 - BPM,No conceptual model,
+28,https://link.springer.com/chapter/10.1007/978-3-031-94590-8_14,OLAP Operations for Object-Centric Process Mining,2025 - caise,"Log, Description",Hospital setting 
+29,,PyStack’t: Real-Life Data for Object-Centric Process Mining,No main track,,
+30,,FrOG: An OCEL generator for fragmented supply orders,No main track,,
+31,https://link.springer.com/chapter/10.1007/978-3-031-94571-7_6,Object-Centric Causal Nets,2025 - Caise,"Model, Description, Log",Order management
+32,https://link.springer.com/chapter/10.1007/978-3-031-82225-4_27,Framework for Extracting Real-World Object-Centric Event Logs from Game Data,2024 - icpm ,No object lifecycle,
+33,https://link.springer.com/chapter/10.1007/978-3-031-82225-4_28,Object-Centric Local Process Models,2024 - icpm,"Model, Description, Log",Order management
+34,,Compliance Checking: from Object-Centric Process Mining to Blockchain,No main track,,
+35,https://leemans.ch/publications/papers/icpm2025vandetten.pdf,Modeling and Discovering Dynamic Identity Relations in Object-Centric Process Mining,2025 - icpm,"Model, Description, Log",Order management
+36,,Easy and Efficient Object-Centric Process Querying with the OCPQ Tool,No main track,,
+37,,BROOM: Toolbox for IoT-Enhanced Process Mining,No main track,,
+38,https://link.springer.com/chapter/10.1007/978-3-031-82225-4_30,A Framework for Advanced Case Notions in Object-Centric Process Mining,2024 - icpm,Log,Loan application process
+39,https://link.springer.com/chapter/10.1007/978-3-031-94571-7_11,Object-Centric Processes with Structured Data and Exact Synchronization,2025 - caise,"Model, Description, Log",Order management
+40,https://link.springer.com/chapter/10.1007/978-3-031-82225-4_23,A Classification of Data Quality Issues in Object-Centric Event Data,2024 - icpm,Description,Order management
+41,https://link.springer.com/chapter/10.1007/978-3-031-78666-2_22,Coordination Process Verification for Object-Centric Business Processes,2024 - bpm,Description,Recruitment business process
+42,,Object-centric Process Mining on Collection Objects,No main track,,
+43,,SOUP: Simplifying Event Knowledge Graph Management for Process Mining,No main track,,
+44,,icpm 2024 ,,,
+45,https://link.springer.com/chapter/10.1007/978-3-031-82225-4_25,Extending Process Intelligence with Quantity-Related Process Mining,2024 - icpm,"Description, Model, Log",Inventory management processes
+46,,Action-Oriented Process Mining: From Insights to Actions (Extended Abstract),No main track,,
+47,https://link.springer.com/chapter/10.1007/978-3-031-82225-4_14,Revealing One-to-Many Event Relationships in Event Knowledge Graphs,2024 - icpm,"Description, Log","Order management
+Robotic system"
+48,,Forum caise 2025,,,
+49,https://link.springer.com/chapter/10.1007/978-3-031-94571-7_15,A Unified View con data object states,2025 - caise,Model,Order management
+50,https://link.springer.com/chapter/10.1007/978-3-031-61057-8_14,HOEG: A New Approach for Object-Centric Predictive Process Monitoring,2024 - caise,Log,Order management
+51,https://link.springer.com/chapter/10.1007/978-3-031-61003-5_30,Exploring Object Centric Process Mining with MIMIC IV: Unlocking Insights in Healthcare,2024 - caise ,No conceptual model,
+52,,From Conventional to IoT-Enhanced: Simulated Object-Centric Event Logs for Real-Life Logistics Processes,No main track,,
+53,https://link.springer.com/chapter/10.1007/978-3-031-56107-8_6,From OCEL to DOCEL – Datasets and Automated Transformation,2023 - icpm,Description,Enriched order management
+54,https://ieeexplore.ieee.org/document/10680659,"Discovering Compact, Live and Identifier-Sound Object-Centric Process Models",2024 - icpm,,
+55,,Towards Object-centric BPMN Process Models,No main track,,
+56,,Discovery of Object-Centric Declarative Models,2024 - icpm,Model,Order management
+57,https://link.springer.com/chapter/10.1007/978-3-031-70396-6_4,Object Synchronizations and Specializations with Silent Objects in Object-Centric Petri Nets,2024 - bpm,"Model, Description, Log",Repair process
+58,https://link.springer.com/chapter/10.1007/978-3-031-61057-8_1,Object-Centric Conformance Alignments with Synchronization,2024 - caise,"Model, Log",Order management
+59,https://link.springer.com/chapter/10.1007/978-3-031-50974-2_38,A Model-Driven Engineering Perspective for the Object-Centric Event Data (OCED) Metamodel,2023 - bpm,No conceptual model,
+60,https://link.springer.com/chapter/10.1007/978-3-031-56107-8_31,Analyzing an After-Sales Service Process Using Object-Centric Process Mining: A Case Study,2023 - icpm,"Description, Model, Log",After sale support
+61,https://link.springer.com/chapter/10.1007/978-3-031-56107-8_14,Detecting Anomalous Events in Object-Centric Business Processes via Graph Neural Networks,2023 - icpm,No conceptual model,
+62,,Explainable Object-Centric Anomaly Detection: the Role of Domain Knowledge,No main track,,
+63,,Stochastic Object-Centric Process Mining: Analysing Object Interaction Patterns,No main track,,
+64,https://link.springer.com/chapter/10.1007/978-3-031-61000-4_2,Permission Analysis for Object-Centric Processes,2024 - caise ,No conceptual model,
+65,https://link.springer.com/chapter/10.1007/978-3-031-56107-8_30,Checking Constraints for Object-Centric Process Executions,2023 - icpm,Log,Hiring process
+66,https://link.springer.com/chapter/10.1007/978-3-031-56107-8_33,Implementing Object-Centric Event Data Models in Event Knowledge Graphs,2023 - icpm,No conceptual model,
+67,,Rust4PM: A Versatile Process Mining Library for When Performance Matters,No main track,,
+68,https://link.springer.com/chapter/10.1007/978-3-031-50974-2_39,Predictive Analytics for Object-Centric Processes: Do Graph Neural Networks Really Help?,2023 - bpm,Log,Italian utility provider
+69,,"From Chaos to Clarity: An Object-Centric Process Mining Case Study in Complaint
+Requisition Management System",No main track,,
+70,https://link.springer.com/chapter/10.1007/978-3-031-50974-2_9,An Object-Centric Approach to Handling Concurrency in IoT-Aware Processes,2023 - BPM,Description,Simple manufacturing example
+71,https://link.springer.com/chapter/10.1007/978-3-031-61003-5_29,Overstock Problems in a Purchase-to-Pay Process: An Object-Centric Process Mining Case Study,2024 - caise,"Description, Model",Purchase-to-pay
+72,,Concept-drift-aware Prescriptive Analytics for Object-centric Processes,No main track,,
+73,https://link.springer.com/chapter/10.1007/978-3-031-56107-8_35,From Identities to Quantities: Introducing Items and Decoupling Points to Object-Centric Process Mining,2023 - icpm,Description,Order management
+74,https://link.springer.com/chapter/10.1007/978-3-031-50974-2_37,"Addressing Convergence, Divergence, and Deficiency Issues",2023 - bpm ,No conceptual model,
+75,https://link.springer.com/chapter/10.1007/978-3-031-50974-2_36,Typed Petri Nets with Variable Arc Weights,2023 - bpm,Description,Order management
+76,,icpm 2023 conference,,,
+77,,Data Objects with Variables in BPMN,No main track,,
+78,https://link.springer.com/chapter/10.1007/978-3-031-70396-6_7,Super Variants,2024 - BPM,Model,Order management
+79,,Proceedings icpm 2024,,,
+80,https://link.springer.com/chapter/10.1007/978-3-031-50974-2_7,Experiences from the Internet-of-Production: Using “Data-Models-in-the-Middle” to Fight Complexity and Facilitate Reuse,2023 - BPM,No conceptual model,
+81,,icpm doctoral consortium,,,
+82,,bpm doctoral consortium,,,
+83,https://link.springer.com/chapter/10.1007/978-3-031-56107-8_22,Ontology-Based Multi-perspective Process Mining in Laboratories: A Case Study,2023 - icpm,No conceptual model,
+84,,Multidimensional Process Model Forecasting (MuDiPMF),No main track,,
+85,,caise 2024 ,,,
+86,,CSV-PM-LLM-Parsing: Automatic Ingestion of CSV Event Logs for Process Mining using LLMs,No main track,,
+87,https://link.springer.com/chapter/10.1007/978-3-031-43433-4_4,Towards Object-Centric Process Mining for Blockchain Applications,2023 - bpm,"Description, Model, Log",OCEL 2.0 Etherum blockchain
+88,https://link.springer.com/chapter/10.1007/978-3-031-27815-0_34,A Virtual Knowledge Graph Based Approach for Object-Centric Event Logs Extraction,2022 - icpm,Description,Order management
+89,,OCEL 2.0 Resources – www.ocel-standard.org,No main track,,
+90,https://link.springer.com/chapter/10.1007/978-3-031-27815-0_35,Monitoring Constraints in Business Processes Using Object-Centric Constraint Graphs,2022 - ICPM,Description,"Order management
+Purchase-to-pay"
+91,https://link.springer.com/chapter/10.1007/978-3-031-27815-0_2,Enhancing Data-Awareness of Object-Centric Event Logs,2022 - icpm,Model,Order managemnt
+92,,Object-Centric Process Mining (and More) Using a Graph-Based Approach With PromG,No main track,,
+93,,Object-Centric Process Mining for Process Analysis and Operational Support,No main track,,
+94,,Towards Organizational Digital Twins: Process Enhancement by Object-Centric Simulation,No main track,,
+95,https://link.springer.com/chapter/10.1007/978-3-031-25383-6_16,Defining Process Performance Measures in an Object-Centric Context,2022 - Bpm,Description,Order management
+96,https://link.springer.com/chapter/10.1007/978-3-031-27815-0_20,Clustering Analysis and Frequent Pattern Mining for Process Profile Analysis: An Exploratory Study for Object-Centric Event Logs,2022 - icpm,"Description, Part of a log",Order management
+97,https://ieeexplore.ieee.org/document/10271944,Discovering Object-Centric Process Simulation Models,2023 - icpm,Log,Order management
+98,https://link.springer.com/chapter/10.1007/978-3-031-34241-7_4,Aligning Object-Centric Event Logs with Data-Centric Conceptual Models,2023 - bpmds,No object lifecycle,
+99,https://link.springer.com/chapter/10.1007/978-3-031-25383-6_6,Assessing the Suitability of Traditional Event Log Standards for IoT-Enhanced Event Logs,2022 - bpm,No conceptual model,
+100,,ICPM doctoral consortium 2023 ,,,
+101,,icpm 2022,,,
+102,,proceedings icpm 2023,,,
+103,,Internet of Processes and Things: A Repository for IoT-Enriched Event Logs in Smart Environments,No main track,,
+104,https://link.springer.com/chapter/10.1007/978-3-031-25383-6_1,Constraints for Process Framing in AI-Augmented BPM,2022 - bpm,No conceptual model,
+105,,Workshop bpm 2022,,,
+106,,caise 2023,,,
+107,https://link.springer.com/chapter/10.1007/978-3-031-16103-2_25,Uncovering Object-Centric Data in Classical Event Logs for the Automated Transformation from XES to OCEL,2022 - bpm,Log,Order management
+108,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9980730,Defining Cases and Variants for Object-Centric Event Data,2024 - icpm,Description,Order management
+109,https://link.springer.com/chapter/10.1007/978-3-030-98581-3_19,An Event Data Extraction Approach from SAP ERP for Process Mining,2021 - icpm,No object lifecycle,
+110,,BPM 2022,,,
+111,,Konekti: A Data Preparation Platform for Process Mining (Extended Abstract),No main track,,
+112,,Interactive Process Identification and Selection from SAP ERP (Extended Abstract),No main track,,
+113,,Ex-Post Identification of Task Models With Causally Ordered User Interface Logs (Extended Abstract),No main track,,
+114,https://ieeexplore.ieee.org/abstract/document/9576886,Precision and Fitness in Object-Centric Process Mining,2021 - ICPM,"Model, Log",Plane process
+115,,A Scalable Database for the Storage of Object-Centric Event Logs,No main track,,
+116,,A Python Tool for Object-Centric Process Mining Comparison,No main track,,
+117,,Associative Intelligence for Object-Centric Process Mining with MPM,No main track,,
+118,,icpm 2021 doctoral consortium,,,
+119,https://link.springer.com/chapter/10.1007/978-3-030-26619-6_11,Modeling and Reasoning over Declarative Data-Aware Processes with Object-Centric Behavioral Constraints,2019 bpm,Model,Order manageent
+120,,bpm 2019,,,
+121,https://link.springer.com/chapter/10.1007/978-3-319-92901-9_16,Extracting Object-Centric Event Logs to Support Process Mining on Databases,2018 caise,No object lifecycle,
+122,,caise 2018 forum,,,
+123,,Towards hyperscale process management,No main track,,
+124,https://link.springer.com/chapter/10.1007/978-3-319-06257-0_13,Synthesizing Object-Centric Models from Business Process Models,2013 - bpm,No object lifecycle ,
+125,,bpm 2013 ,,,
+126,https://link.springer.com/chapter/10.1007/978-3-540-85758-7_13,Predicting Coupling of Object-Centric Business Process Implementations,2008 - bpm,Model,alumni day organization
+127,,bpm 2008,,,
